@@ -12,7 +12,7 @@
     display: inline-block;
   }
 }
-#@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 900px) {
   body{
     font-size: 85%;
   }
@@ -57,7 +57,7 @@
     column-count: 1;
   }
 }
-@@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 700px) {
   #navbar nav a {
     display: none;
   }
@@ -75,7 +75,7 @@
     top: 60px;
   }
 }
-@@media only screen and (max-width: 495px) {
+@media only screen and (max-width: 495px) {
   #logo h2{
     visibility: hidden;
   }
